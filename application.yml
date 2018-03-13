@@ -1,5 +1,5 @@
 info:
-  description: Spring Cloud Samples for encryption
+  description: '{cipher}AQBT6lIW/EP4wEb7ngl1McayNg0dWgGnzGc/DLl4qcXdFtWV4SWtFoiA7HoU6hLsAheDbbU1j48NHK5+VBmQSgHY7ysANB+KBtaEiT9NJE4w/rmt8bH+9XvAbTWT1KFAp+3oOhoSdvYVjj1oWeDBkS9kuABvSWUB+nRICY5JXYCL3DiHH+FdCjD4fy68qdLYr9s+noH7HyTFjdsKmHocuQBKus+tESkD6vAkYOv0/TgKKC5Q1aH8DNIi0l1IS5lfsL7e66MyZakHa0RIugRKDtp39ksiUmah3NrM5oSvc5+ZyXFddBlESYfdMiFhyXeURv6LHXvv620y0p5ibzWP1NJg5+Ra7Oc1Rz4dQCNL7apUZikM2IXtnwmnPGwBjgpWrkMzAf3KckSyrkcLZn4l26Z/ju1HyLDfYe+a7sH5BIdQ8Q=='
   url: https://github.com/spring-cloud-samples
 eureka:
   client:
